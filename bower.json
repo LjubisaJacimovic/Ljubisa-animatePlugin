@@ -1,0 +1,23 @@
+{
+  "name": "bower homework",
+  "version": "1.0.0",
+  "description": "Homework",
+  "keywords": [
+    "homework"
+  ],
+  "authors": [
+    "Ljubisa Jacimovic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "daneden/animate.css#~3.2.5",
+    "jquery": "~2.1.3"
+  }
+}
